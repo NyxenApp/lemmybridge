@@ -1,2 +1,2 @@
 # lemmybridge
-For real this time.
+Converts lemmy api to something old reddit clients can interface with.
